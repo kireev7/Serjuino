@@ -15,6 +15,9 @@ To do this, I needed the following components:
 | ---------------------------| ------ | -----:     |
 |                   Total:   |        |    $7      |
   
-Wiring diagram on the board (without button and USB) 
+Lyrical digression:
+> Wiring diagram on the board 
 > I prefer to write diagrams on a notebook
-![image](https://user-images.githubusercontent.com/93592475/140104658-50603a3b-1a8a-4eb2-add0-5775e373922c.png).
+![image](https://user-images.githubusercontent.com/93592475/140104658-50603a3b-1a8a-4eb2-add0-5775e373922c.png)
+
+
