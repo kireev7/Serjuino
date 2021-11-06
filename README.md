@@ -21,5 +21,5 @@ Wiring sceme on the board
 Atmega328 pinout:  
 ![image](https://user-images.githubusercontent.com/93592475/140111147-5cb9827c-f40c-48e6-8d88-9414c390dd31.png)
 ***
- `Сollect all the components in the scheme and you should get the following:`
- [![Watch the video](https://www.youtube.com/watch?v=veto45xHCA0)
+ `Сollect all the components in the scheme and you should get the following(click on the picture to watch the video):`
+ [![Watch the video](https://user-images.githubusercontent.com/93592475/140606617-4c612684-1575-4e42-b06f-7d2d49b5f73b.png)](https://www.youtube.com/watch?v=veto45xHCA0)
