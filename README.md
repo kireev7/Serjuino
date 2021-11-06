@@ -16,11 +16,10 @@ To do this, I needed the following components:
 |                   Total:   |        |    $7      |
 ***
 Lyrical digression:  
-Wiring diagram on the board  
-(I prefer to write diagrams on a notebook)  
-![image](https://user-images.githubusercontent.com/93592475/140104658-50603a3b-1a8a-4eb2-add0-5775e373922c.png)
+Wiring sceme on the board  
+![image](https://user-images.githubusercontent.com/93592475/140606482-9fc43e99-0ef8-444f-8752-bc5dc794dd73.png)  
 Atmega328 pinout:  
 ![image](https://user-images.githubusercontent.com/93592475/140111147-5cb9827c-f40c-48e6-8d88-9414c390dd31.png)
 ***
  `Сollect all the components in the scheme and you should get the following:`
- [![Watch the video](https://user-images.githubusercontent.com/93592475/140606074-b4cf9ff7-6ff9-4fa0-9858-d0722f0d7371.png)](https://www.youtube.com/watch?v=veto45xHCA0)
+ [![Watch the video](https://www.youtube.com/watch?v=veto45xHCA0)
