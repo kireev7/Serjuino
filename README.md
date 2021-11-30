@@ -33,3 +33,5 @@ For another example, I will take a servo and a potentiometer. I will connect the
 First, I solder all the components to the board.  
 ![image](https://user-images.githubusercontent.com/48791896/141270921-628d4fea-8ab9-4787-a211-ee69a0ffe1fc.png)  
 ![image](https://user-images.githubusercontent.com/48791896/141271015-ea02b25c-f64e-4cf9-9671-64b96f6fc9eb.png)  
+***
+![image](https://user-images.githubusercontent.com/93592475/144124255-366d9151-ddf2-44ac-b5d4-c11c29251d14.png)
