@@ -25,7 +25,7 @@ Atmega328 pinout:
  [![Watch the video](https://user-images.githubusercontent.com/93592475/140606617-4c612684-1575-4e42-b06f-7d2d49b5f73b.png)](https://www.youtube.com/watch?v=veto45xHCA0)
 ***  
 #### !Note: to upload the scratch, we must choose an `Arduino nano board with Atmega328p`!  
-The code (Blink) is written in C, not in Arduino C, because pure C takes 173 bytes instead of 983 bytes. 
+The code (Blink) is written in C, not in Arduino C, because C <avr.io> takes 173 bytes instead of 983 bytes. 
 ***  
 For another example, I will take a servo and a potentiometer. I will connect the `servo to 9 pins`, and the `potentiometer to A0`(i use 10k). And it will look like this `(click on the picture to watch the video)`:  
 [![Watch the video](https://user-images.githubusercontent.com/48791896/141270178-9c00429b-f17d-42a1-be5f-fef866437083.png)](https://youtu.be/LdQcaEY1qvc)
